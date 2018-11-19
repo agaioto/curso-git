@@ -21,7 +21,7 @@ namespace curso.dominio {
 
         public override string ToString() {
             return produto.descricao
-                + ", Preço: "
+                + ", Preços: "
                 + produto.preco.ToString("F2", CultureInfo.InvariantCulture)
                 + ", Qte: "
                 + quantidade
