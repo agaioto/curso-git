@@ -1,0 +1,6 @@
+C:\Google Drive\aaa_Pess\Curso\resolvido-IMPLEMENTACAO\curso\bin\Debug\curso.exe.config
+C:\Google Drive\aaa_Pess\Curso\resolvido-IMPLEMENTACAO\curso\bin\Debug\curso.exe
+C:\Google Drive\aaa_Pess\Curso\resolvido-IMPLEMENTACAO\curso\bin\Debug\curso.pdb
+C:\Google Drive\aaa_Pess\Curso\resolvido-IMPLEMENTACAO\curso\obj\Debug\curso.csprojResolveAssemblyReference.cache
+C:\Google Drive\aaa_Pess\Curso\resolvido-IMPLEMENTACAO\curso\obj\Debug\curso.exe
+C:\Google Drive\aaa_Pess\Curso\resolvido-IMPLEMENTACAO\curso\obj\Debug\curso.pdb
