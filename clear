@@ -1,0 +1,27 @@
+warning: LF will be replaced by CRLF in curso/dominio/ItemPedido.cs.
+The file will have its original line endings in your working directory
+[1mdiff --git a/curso/Program.cs b/curso/Program.cs[m
+[1mindex 0304513..9655f85 100644[m
+[1m--- a/curso/Program.cs[m
+[1m+++ b/curso/Program.cs[m
+[36m@@ -13,6 +13,7 @@[m [mnamespace curso {[m
+             int opcao = 0;[m
+ [m
+             produtos.Add(new Produto(1005, "Mesa retangularX", 9000.00));[m
+[32m+[m[32m            produtos.Add(new Produto(1005, "Novo Produto Branch", 9000.00));[m
+             produtos.Add(new Produto(1001, "Cadeira simples", 500.00));[m
+             produtos.Add(new Produto(1002, "Cadeira acolchoada", 900.00));[m
+             produtos.Add(new Produto(1003, "Sofá de três lugares", 2000.00));[m
+[1mdiff --git a/curso/dominio/ItemPedido.cs b/curso/dominio/ItemPedido.cs[m
+[1mindex 34b3635..1d640e3 100644[m
+[1m--- a/curso/dominio/ItemPedido.cs[m
+[1m+++ b/curso/dominio/ItemPedido.cs[m
+[36m@@ -21,7 +21,7 @@[m [mnamespace curso.dominio {[m
+ [m
+         public override string ToString() {[m
+             return produto.descricao[m
+[31m-                + ", Preços: "[m
+[32m+[m[32m                + ", PreçosXX: "[m
+                 + produto.preco.ToString("F2", CultureInfo.InvariantCulture)[m
+                 + ", Qte: "[m
+                 + quantidade[m
