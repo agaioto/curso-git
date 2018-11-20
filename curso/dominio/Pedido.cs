@@ -23,7 +23,7 @@ namespace curso.dominio {
         }
 
         public override string ToString() {
-            String s = "Cód. Pedido " + codigo
+            String s = "Cód. PedidoYY " + codigo
                 + ", data: " + data.Day + "/" + data.Month + "/" + data.Year + "\n"
                 + "Itens:\n";
             for (int i = 0; i < itens.Count; i++) {

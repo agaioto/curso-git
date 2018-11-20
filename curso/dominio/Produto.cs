@@ -17,7 +17,7 @@ namespace curso.dominio {
             return codigo
                 + ", "
                 + descricao
-                + ", Preço: "
+                + ", PreçoYY: "
                 + preco.ToString("F2", CultureInfo.InvariantCulture);
         }
 
