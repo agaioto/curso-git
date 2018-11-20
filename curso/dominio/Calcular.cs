@@ -8,6 +8,10 @@ namespace curso.dominio
 {
     class Calcular
     {
-
+        private void mensagem()
+        {
+            Console.WriteLine("Teste");
+        }
+        
     }
 }
